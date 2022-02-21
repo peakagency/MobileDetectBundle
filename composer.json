@@ -2,7 +2,7 @@
     "name": "peakagency/mobile-detect-bundle",
     "description": "Symfony4/5/6 bundle for detect mobile devices, managing mobile view types, redirect to mobile version.",
     "keywords": ["mobile", "mobile detect", "symfony mobile", "mobile view managing", "mobile redirect"],
-    "homepage": "https://github.com/tattali/MobileDetectBundle",
+    "homepage": "https://github.com/peakagency/MobileDetectBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
